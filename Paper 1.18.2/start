@@ -1,0 +1,2 @@
+echo "Starting Server..."
+java -jar paper-1.18.2-388.jar
