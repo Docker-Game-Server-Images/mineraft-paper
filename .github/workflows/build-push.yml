@@ -48,5 +48,5 @@ jobs:
         with:
           context: /home/runner/work/mineraft-paper/mineraft-paper/1.20.2
           push: true
-          tags: 1.20.2
+          tags: qwertytech/mc-paper-server:1.20.2
           labels: ${{ steps.meta.outputs.labels }}
