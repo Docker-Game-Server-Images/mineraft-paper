@@ -48,5 +48,5 @@ jobs:
         with:
           context: /home/runner/work/mineraft-paper/mineraft-paper/1.20.2
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
+          tags: 1.20.2
           labels: ${{ steps.meta.outputs.labels }}
