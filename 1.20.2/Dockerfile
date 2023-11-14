@@ -1,4 +1,4 @@
-FROM ubuntu-java:17
+FROM qwertytech/ubuntu-java:17
 WORKDIR /server
 COPY paper-1.20.2-260.jar .
 COPY start /bin/
